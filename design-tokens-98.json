@@ -1,0 +1,66 @@
+{
+    "style": {
+        "color": {
+            "color-dark": {
+                "type": "SOLID",
+                "value": "#000000"
+            },
+            "color-dark-steel-900": {
+                "type": "SOLID",
+                "value": "#101419"
+            },
+            "color-steel-800": {
+                "type": "SOLID",
+                "value": "#1c2026"
+            },
+            "color-black-pearl-700": {
+                "type": "SOLID",
+                "value": "#232b36"
+            },
+            "color-licorice-600": {
+                "type": "SOLID",
+                "value": "#2d3745"
+            },
+            "color-cloud-burst-500": {
+                "type": "SOLID",
+                "value": "#374456"
+            },
+            "color-east-bay-400": {
+                "type": "SOLID",
+                "value": "#48576f"
+            },
+            "color-smokey-300": {
+                "type": "SOLID",
+                "value": "#b6bcc6"
+            },
+            "color-dark-snow-200": {
+                "type": "SOLID",
+                "value": "#e0e4ea"
+            },
+            "color-dirty-snow-100": {
+                "type": "SOLID",
+                "value": "#eceff1"
+            },
+            "color-white-snow": {
+                "type": "SOLID",
+                "value": "#ffffff"
+            },
+            "color-moon": {
+                "type": "SOLID",
+                "value": "#1e87f0"
+            },
+            "color-zeus": {
+                "type": "SOLID",
+                "value": "#13ce66"
+            },
+            "color-hermes": {
+                "type": "SOLID",
+                "value": "#6233ff"
+            },
+            "color-afrodite": {
+                "type": "SOLID",
+                "value": "#f2d03b"
+            }
+        }
+    }
+}
